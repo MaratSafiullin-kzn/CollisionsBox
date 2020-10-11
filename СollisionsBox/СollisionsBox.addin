@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application СollisionsBox</Name>
+    <Assembly>СollisionsBox.dll</Assembly>
+    <FullClassName>СollisionsBox.App</FullClassName>
+    <ClientId>c578d2eb-6c7a-419c-86db-313cfa040b55</ClientId>
+    <VendorId>ru.gap-rt</VendorId>
+    <VendorDescription>АО Казанский ГИПРОНИИАВИАПРОМ, http://gap-rt.ru</VendorDescription>
+  </AddIn>
+</RevitAddIns>
